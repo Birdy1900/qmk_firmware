@@ -1,0 +1,11 @@
+#define TAPPING_TERM 200
+
+#define PERMISSIVE_HOLD
+
+#define CHORDAL_HOLD
+
+#define QUICK_TAP_TERM 0
+
+// #define RETRO_TAPPING
+
+#define FLOW_TAP_TERM 200
